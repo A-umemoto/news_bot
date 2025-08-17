@@ -1,0 +1,5 @@
+gTTS
+requests
+beautifulsoup4
+lxml
+pytest
